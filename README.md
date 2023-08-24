@@ -17,18 +17,18 @@ This project focuses on creating an accurate predictive model that uses a set of
 
 ~ User-Friendly Interface: Create an easy-to-use interface where medical professionals or users can input patient data and receive instant predictions.
 
-# Prerequisites
+## Prerequisites
  Python(3.11),
  Jupyter Notebook,
  Advance Python,
  Machine Learning
 
-# Dataset
+## Dataset
 The dataset used for this project is sourced from Kaggle.
 It contains various features such as age, sex, blood pressure, cholesterol levels, and more. 
 The target variable indicates whether a person has heart disease (1) or not (0).
 
-# Getting Started
+## Getting Started
 1. Clone this repository to your local machine.
 
    git clone https://github.com/Dhruv2535/Heart_Disease_Prediction.git
@@ -40,18 +40,18 @@ The target variable indicates whether a person has heart disease (1) or not (0).
 3. Install the required dependencies.
 
    pip install -r requirements.txt
-# Model
+## Model
 The predictive model used in this project is a machine learning algorithm (e.g., Random Forest, Logistic Regression, etc.) trained on the provided dataset. 
 The model has been trained to learn patterns and relationships between input features and the presence of heart disease.
 
-# Results
+## Results
 After running the prediction script, you will see a list of predictions indicating the likelihood of heart disease for each individual in the dataset
 Additionally, metrics such as accuracy, precision, recall, and F1-score will be displayed to evaluate the model's performance.
 
-# Contributors
+## Contributors
 Contributions to this project are welcome! 
 
 If you find any issues or opportunities for improvement, feel free to open a pull request.
 
-# License
+## License
 This project is licensed under the MIT License.
